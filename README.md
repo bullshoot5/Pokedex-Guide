@@ -12,4 +12,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Pokedex-Guide
